@@ -1,5 +1,13 @@
 <html>
+
+<head>
+<title>
+Expense Manager</title>
+</head>
+
 <body>
-<h2>Hello World!</h2>
+Header
+Header2
 </body>
+
 </html>
