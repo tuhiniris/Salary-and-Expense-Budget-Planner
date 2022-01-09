@@ -26,7 +26,7 @@ import java.util.*;
 public class JustHashing {
 	
 	public static void main (String[] args) {
-		String pass = "dh61ww";
+		String pass = "something-unique";
 		System.out.println(pass.hashCode());
 	}
 }
