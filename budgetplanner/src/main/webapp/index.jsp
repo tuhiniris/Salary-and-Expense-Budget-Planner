@@ -7,7 +7,6 @@ Expense Manager</title>
 
 <body>
 Header
-Header2
 </body>
 
 </html>
